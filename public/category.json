@@ -1,0 +1,38 @@
+[
+    { 
+        "id": 1, 
+        "name": "Lifestyle", 
+        "slug": "lifestyle", 
+        "totalBlogs": 25 
+    },
+    { 
+        "id": 2, 
+        "name": "Technology", 
+        "slug": "technology", 
+        "totalBlogs": 18 
+    },
+    { 
+        "id": 3, 
+        "name": "Travel", 
+        "slug": "travel", 
+        "totalBlogs": 30 
+    },
+    { 
+        "id": 4, 
+        "name": "Health & Fitness", 
+        "slug": "health-fitness", 
+        "totalBlogs": 14 
+    },
+    { 
+        "id": 5, 
+        "name": "Food", 
+        "slug": "food", 
+        "totalBlogs": 22 
+    },
+    { 
+        "id": 6, 
+        "name": "Career", 
+        "slug": "career", 
+        "totalBlogs": 11 
+    }
+]
