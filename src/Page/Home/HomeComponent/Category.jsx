@@ -1,8 +1,14 @@
-const Category = () => {
+const Category = ({category}) => {
     return (
-        <div>
-            <h1>This is Category</h1>
+        <div className="flex flex-wrap gap-3">
+            {
+                category.map(category => (
+                    <div className="border border-gray-200 px-4 py-2 rounded-md">
+                        <p>{category.name}</p>
+                    </div>
+                ))
+            }
         </div>
-    )
-}
+    );
+};
 export default Category;
