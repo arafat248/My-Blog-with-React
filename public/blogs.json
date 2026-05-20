@@ -9,7 +9,7 @@
         "tags": ["CSS", "Tailwind", "Frontend", "WebDev"],
         "shortDescription": "A beginner-friendly guide to learning Tailwind CSS utility classes and building responsive layouts quickly.",
         "longDescription": "Tailwind CSS has completely changed the way we think about styling websites. Instead of writing thousands of lines of custom CSS in separate files, Tailwind allows developers to style components directly inside HTML or JSX using utility classes. In this article, we deep dive into the core concepts of Tailwind, such as responsiveness with modifiers, hover/focus states, and customizing your design via the tailwind.config.js file. We also discuss how PurgeCSS works behind the scenes to keep production bundle sizes incredibly small, making your website blazing fast.",
-        "image": "https://ibb.co.com/yrWd6V3",
+        "image": "/image/car.webp",
         "author": { "name": "Admin" },
         "isFeatured": true,
         "createdAt": "2026-05-15"
@@ -24,7 +24,7 @@
         "tags": ["Travel", "Bangladesh", "Sajek", "CoxsBazar"],
         "shortDescription": "Discover the most beautiful and hidden gems of Bangladesh that you must visit this year.",
         "longDescription": "Bangladesh is a country full of natural surprises, ranging from the world's longest natural sea beach to lush green hills and tea gardens. This comprehensive travel guide covers the top 5 locations you must explore this year. We start with the clouds of Sajek Valley, move to the white sand beaches of Saint Martin's Island, explore the deep mangrove forests of the Sundarbans, and finish with the historical trails of Sreemangal. The article includes complete guidelines on the best time to visit, budget accommodation options, local food recommendations, and essential safety tips for backpackers.",
-        "image": "https://ibb.co.com/BKKLgB6p",
+        "image": "/image/travel.png",
         "author": { "name": "Arafat" },
         "isFeatured": false,
         "createdAt": "2026-05-12"
@@ -39,7 +39,7 @@
         "tags": ["Productivity", "Habits", "Motivation", "SelfCare"],
         "shortDescription": "Transform your daily routine with these small but powerful habits backed by science.",
         "longDescription": "Being productive is not about working 16 hours a day; it's about managing your energy and focusing on what truly matters. In this post, we discuss 10 scientifically proven daily habits that can significantly boost your focus and mental clarity. From the 2-minute rule for small tasks and the Pomodoro technique for deep work, to morning hydration and digital detoxing before bed—these habits are easy to integrate into any busy schedule. Implementing just three of these changes can lead to a more balanced, stress-free, and high-achieving lifestyle within a month.",
-        "image": "https://ibb.co.com/yrWd6V3",
+        "image": "/image/life.webp",
         "author": { "name": "Anika" },
         "isFeatured": true,
         "createdAt": "2026-05-10"
@@ -54,7 +54,7 @@
         "tags": ["Python", "AI", "MachineLearning", "Django"],
         "shortDescription": "Artificial Intelligence is booming. Here is how Python developers can leverage this trend.",
         "longDescription": "Python has become the undisputed king of AI and Machine Learning due to its simplicity and powerful libraries like TensorFlow, PyTorch, and Scikit-Learn. As a modern Python or Django developer, transitioning or incorporating AI into your applications is no longer optional. This article outlines the exact roadmap to shifting your backend knowledge towards building AI-powered features, interacting with Large Language Model (LLM) APIs, and creating smart web endpoints that users love.",
-        "image": "https://ibb.co.com/Tx0VPqPv",
+        "image": "/image/headPhone.webp",
         "author": { "name": "Admin" },
         "isFeatured": false,
         "createdAt": "2026-05-08"
@@ -69,7 +69,7 @@
         "tags": ["Fitness", "Diet", "Health", "Weightloss"],
         "shortDescription": "Everything you need to know about starting intermittent fasting safely and effectively.",
         "longDescription": "Intermittent fasting (IF) is currently one of the world's most popular health and fitness trends. People are using it to lose weight, improve their health and simplify their lifestyles. Many studies show that it can have powerful effects on your body and brain. This guide breaks down the most popular methods like the 16:8 protocol, what you can consume during your fasting window, how to avoid common mistakes, and how to safely track your body's energy levels.",
-        "image": "https://ibb.co.com/Psz9ZVwv",
+        "image": "/image/life2.webp",
         "author": { "name": "Dr. Asif" },
         "isFeatured": false,
         "createdAt": "2026-05-05"
@@ -84,7 +84,7 @@
         "tags": ["Cooking", "Foodie", "HealthyFood", "Budget"],
         "shortDescription": "Save money and boost your physical health by making your own meals at home.",
         "longDescription": "In a world filled with food delivery apps, cooking might seem like a chore. However, taking control of your kitchen is one of the best decisions you can make for your wallet and your waistline. When you cook at home, you know exactly what ingredients go into your body, reducing hidden sugars and unhealthy fats. We share 5 super easy, 15-minute recipes that any busy professional or student can cook without needing professional chef skills.",
-        "image": "https://ibb.co.com/qMD70zQ8",
+        "image": "/image/food.png",
         "author": { "name": "Anika" },
         "isFeatured": false,
         "createdAt": "2026-05-01"
@@ -99,7 +99,7 @@
         "tags": ["Career", "Programming", "Software", "Jobs"],
         "shortDescription": "A realistic and step-by-step framework to land your first job as a software developer.",
         "longDescription": "Landing your first job in the tech industry requires more than just knowing a language like JavaScript or Python. It's about problem-solving, building reliable real-world projects, understanding Git version control, and mastering clean database architecture. This extensive guide provides an industry-proven roadmap: how to structure your GitHub repository, how to build a professional CV that beats automated filters, and how to confidently face technical coding interviews.",
-        "image": "https://ibb.co.com/C3jX2x8d",
+        "image": "/image/career.webp",
         "author": { "name": "Arafat" },
         "isFeatured": true,
         "createdAt": "2026-04-28"
@@ -114,7 +114,7 @@
         "tags": ["Travel", "Nepal", "Mountains", "Adventure"],
         "shortDescription": "An ultimate guide to exploring the mountains and culture of Nepal on a shoestring budget.",
         "longDescription": "Nepal is a paradise for backpackers who love mountains, culture, and deep spiritual heritage. Exploring Kathmandu, Pokhara, and trekking up to the Annapurna Base Camp doesn't have to cost a fortune. In this article, we break down transit routes from Bangladesh, visa-on-arrival processes, finding cheap tea houses for stays, and managing your daily budget efficiently while enjoying the stunning Himalayan views.",
-        "image": "https://ibb.co.com/BHF4qkXR",
+        "image": "/image/travel.webp",
         "author": { "name": "Arafat" },
         "isFeatured": false,
         "createdAt": "2026-04-25"
@@ -129,7 +129,7 @@
         "tags": ["Database", "SQL", "MongoDB", "PostgreSQL"],
         "shortDescription": "Demystifying backend architecture: When to use relational databases vs document stores.",
         "longDescription": "Choosing the right database can make or break your application's scalability. This deep dive breaks down the architectural differences between traditional relational databases (like PostgreSQL and SQLite) and non-relational document stores (like MongoDB). We analyze performance under heavy loads, data consistency models (ACID compliance), and practical use-cases so you know exactly which database to pick for your next major backend project.",
-        "image": "https://ibb.co.com/8nfJ2wMf",
+        "image": "/image/watch.webp",
         "author": { "name": "Admin" },
         "isFeatured": false,
         "createdAt": "2026-04-20"
@@ -144,7 +144,7 @@
         "tags": ["Workspace", "Minimalism", "DeskSetup", "Productivity"],
         "shortDescription": "Declutter your desk and optimize your physical environment for deep coding sessions.",
         "longDescription": "A messy desk often leads to a messy mind. For software developers who spend hours glued to screens, optimizing the physical workspace is essential. This article showcases the principles of minimalism applied to software engineering desk setups. We discuss ergonomic chair placements, cable management systems, monitor mounts to reduce neck strain, and warm lighting setups that help reduce eye fatigue during late-night debugging marathons.",
-        "image": "https://ibb.co.com/ccR5QX5g",
+        "image": "/image/travel2.webp",
         "author": { "name": "Anika" },
         "isFeatured": false,
         "createdAt": "2026-04-15"
