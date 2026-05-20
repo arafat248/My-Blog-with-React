@@ -1,14 +1,7 @@
-const Blogs = ({ blogs }) => {
+
+export const blogs = () => {
     return (
-        <div className="flex flex-wrap gap-4">
-            {
-                blogs.map(blog => (
-                    <div className="border border-gray-200 px-4 py-2 rounded-md" key={blog.id}>
-                        <p>{blog.slug}</p>
-                    </div>
-                ))
-            }
-        </div>
+        <div>blogs</div>
     )
 }
-export default Blogs;
+export default blogs;   
