@@ -20,9 +20,9 @@ const Home = () => {
     .then(data => setCategoty(data))
   },[])
 
-  const handleCategoryId = (id) => {
-    console.log(id)
-    setCategoryId(id)
+const handleCategoryId = (id) => {
+  console.log(id)
+  setCategoryId(id)
   }
   return (
     <div className="container mx-auto px-24">
