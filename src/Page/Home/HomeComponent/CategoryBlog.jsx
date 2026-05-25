@@ -1,5 +1,5 @@
 const CategoryBlog = ({ blogs, categoryId }) => {
-    const filterBlogs = blogs.filter(blog => blog.category_id == categoryId)
+    const filterBlogs = categoryId ? blogs.filter(blog => blog.category_id == categoryId): blogs
     return (
         <div className="py-4">{
             filterBlogs.map(blog => (
